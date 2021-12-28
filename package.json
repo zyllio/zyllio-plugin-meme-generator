@@ -1,0 +1,18 @@
+{
+  "name": "zyllio-plugin-meme-generator",
+  "version": "1.0.0",
+  "description": "A meme generator action based on Zyllio SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve",
+    "deploy": "lt --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@zyllio/zy-sdk": "0.0.5",
+    "localtunnel": "^2.0.2",
+    "serve": "^13.0.2"
+  }
+}
