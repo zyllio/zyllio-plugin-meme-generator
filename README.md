@@ -10,7 +10,7 @@ The property `value` is updated with a random Meme image URL
 
 # Development environment
 
-To build this plugin, Node.js 14+ is required
+Node.js 14+ is required
 
 # Build
 
