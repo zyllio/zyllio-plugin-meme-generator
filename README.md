@@ -11,7 +11,9 @@ The property `value` is updated with a random Meme image URL
 # Experiment
 
 Install this pre-built file to experiment the plugin:
-> `https://zyllio.github.io/zyllio-plugin-meme-generator/src/meme.js`
+```
+https://zyllio.github.io/zyllio-plugin-meme-generator/src/meme.js
+```
 
 # Development environment
 
