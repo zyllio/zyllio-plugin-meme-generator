@@ -1,6 +1,6 @@
 {
   "name": "Meme generator",
-  "description": "Provides an Action that retrieves Memes from thia Meme API",
+  "description": "Provides an Action that retrieves Memes from a Meme API",
   "company": "Zyllio team",
   "icon": "https://studio.zyllio.com/assets/icon.png"
 }
