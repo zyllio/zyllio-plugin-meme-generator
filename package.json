@@ -12,7 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "@zyllio/zy-sdk": "latest",
+    "@zyllio/zy-cli": "^1.0.0",
     "localtunnel": "^2.0.2",
     "serve": "^13.0.2"
+  },
+  "dependencies": {
   }
 }
