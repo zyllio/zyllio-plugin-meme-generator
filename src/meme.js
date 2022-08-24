@@ -1,6 +1,6 @@
 /// <reference types="@zyllio/zy-sdk" />
 
-console.log('Plugin Meme started')
+console.log('Plugin Meme started');
 
 (function () {
 
