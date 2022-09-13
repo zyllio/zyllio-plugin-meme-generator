@@ -53,5 +53,4 @@
 
   zySdk.services.registry.registerAction(GetRandomMemeMetadata, zyGetRandomMemeAction)
 
-
 })();
