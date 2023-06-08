@@ -3,5 +3,5 @@
   "description": "Provides an Action that retrieves Memes from a Meme API",
   "company": "Zyllio team",
   "icon": "https://studio.zyllio.com/assets/icon.png",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
