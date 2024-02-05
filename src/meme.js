@@ -48,7 +48,8 @@
       default: '',
       main: true,
       write: true
-    }]
+    }],
+    transitions: ['complete']
   }
 
   zySdk.services.registry.registerAction(GetRandomMemeMetadata, zyGetRandomMemeAction)
