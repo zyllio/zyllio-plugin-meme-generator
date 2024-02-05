@@ -23,7 +23,7 @@
 
       zySdk.services.dictionary.setValue(propertyValue, meme.url)
 
-      return true
+      return 'complete'
     }
   }
 
